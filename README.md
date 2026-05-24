@@ -1,2 +1,2 @@
-# Cryonix
-Cryonix
+# Slipcoin
+Slipcoin
